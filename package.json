@@ -1,0 +1,24 @@
+{
+	"name": "publication-mern",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"start:dev": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Panarin Danil",
+		"email": "danilapanarin96@gmail.com",
+		"url": "https://danil.me"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
